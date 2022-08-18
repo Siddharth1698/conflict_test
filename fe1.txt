@@ -1,1 +1,3 @@
-new master text
+new master text 
+updated with feature2
+
